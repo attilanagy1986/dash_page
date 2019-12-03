@@ -39,7 +39,7 @@ body {
 			height: 297mm;        
 	  }
 	  .page {
-			margin: 10mm auto;
+			margin: 0;
 			border: initial;
 			border-radius: initial;
 			width: initial;
