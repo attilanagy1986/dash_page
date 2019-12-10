@@ -26,7 +26,7 @@ body {
 	  padding: 1cm;
 	  border: 5px #ccc solid;
 	  height: 297mm;
-	  outline: 2cm whitesmoke solid;
+	  outline: 5px whitesmoke solid;
  }
 
  @page {
